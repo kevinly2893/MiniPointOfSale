@@ -1,5 +1,5 @@
 # MiniPointOfSale
-This point of sale is just similiar to the POS System in the market. 
+This point of sale is based on QT technology and C++ programming. 
 The main feature of this project will have:
 1. Log in page
 2. Authorization code to acess the manager setting
